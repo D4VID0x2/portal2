@@ -28,7 +28,7 @@
 
 
 ## SAR
- - [SourceAutoRecord Download](https://github.com/NeKzor/SourceAutoRecord/releases)
+ - [SourceAutoRecord Download](https://github.com/p2sr/SourceAutoRecord/releases)
  - [SAR Livesplit Plugin Download](https://raw.githubusercontent.com/p2sr/SourceAutoRecord/master/livesplit/sar.asl)
  - Put both files into `Steam/steamapps/common/Portal 2/portal2`
 
