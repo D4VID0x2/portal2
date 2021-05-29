@@ -28,12 +28,17 @@
 
 
 ## SAR
- - [SourceAutoRecord Download](https://github.com/p2sr/SourceAutoRecord/releases)
+ - [SourceAutoRecord Download](https://github.com/Blenderiste09/SourceAutoRecord/releases)
  - [SAR Livesplit Plugin Download](https://raw.githubusercontent.com/p2sr/SourceAutoRecord/master/livesplit/sar.asl)
- - Put both files into `Steam/steamapps/common/Portal 2/portal2`
+ - Put both files into `Steam/steamapps/common/Portal 2/portal2/`
 
 
 
 ## Livesplit
  - [LiveSplit Download](http://livesplit.org/downloads/)
+ - [Empty splits with subsplits Download](https://www.speedrun.com/splits/Portal2BlankSplits_xbb9u.zip)
 
+
+## Containerride save
+ - [Containerride save Download](https://bit.ly/2CSJgWf)
+ - put both files into `Steam/steamapps/common/Portal 2/portal2/SAVE/[ID]/`
