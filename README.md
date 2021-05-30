@@ -8,6 +8,8 @@
  - No SLA
  - [Script](portal2_fullgame.md)
  - [Portal 2 Speedrun Tutorial 2019](https://www.youtube.com/watch?v=ZjQJmEPy50Y&list=PLc4Y8DtiFCXDcrbhmmnObxw7n7GoiTIwn)
+ - [Portal 2 Speedrun Setup Tutorial](https://youtu.be/TA8XI_Kv9iw)
+ - [P2SR Wiki](https://wiki.portal2.sr/)
 
   
 
