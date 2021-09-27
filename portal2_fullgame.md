@@ -421,9 +421,9 @@ _normal way (swap cube on bridges)_
 1.  walk against **computer**
 2.  ang: **-29.20** -0? - blue
 3.  orange **bottom left** corner next to the door
-4.  get stuck behind monitor (pos: x x 6783**.93**)
-5.  look at alone white line on door
-6.  ang: **-0.01,.02,.03** x x
+4.  get stuck behind monitor
+5.  look at white line on door
+6.  ang: **0.00** 165.69 x
 7.  orange
 
 ## Neurotoxin
