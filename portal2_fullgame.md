@@ -471,8 +471,9 @@ _just B-Hop_
 -   jump in elevator to trigger lights early
 
 1.  _normal_ (get cube)
-2.  shoot above fizzler
-3.  get inside
+2.  seamshot
+3.  -19.906 174.821 0
+4.  get inside
 
 #### easier route
 
