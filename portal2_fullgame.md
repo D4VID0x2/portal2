@@ -461,10 +461,9 @@ _just B-Hop_
 5.  portal on slanted surface
 6.  portal strait
 7.  portal just under **"P"** in AL**P**HA
-8.  hold **_W_**
-9.  portal **top right** corner
-10. activate pump
-11. jump to surface on the **left** and blue
+8.  hold **_AW_** and reportal
+9.  on pipe hold **_D_** and scroll (spam jump)
+10. jump to surface on the **left** and blue
 
 ## Blue Gel Intro
 
@@ -512,9 +511,16 @@ _just B-Hop_
 
 #### Part 2
 
-1.  portal under cube and under me, **crouch after going through portal**
-2.  _normal (use gel)_
-3.  elevator **_"door"_**
+1.  portal under cube and under me, **crouch after going through portal** (keep holding crouch)
+2.  put cube on button
+3.  **orange top left corner of right white wall next to the elevator**
+4.  **blue on ground under the elevator with a two circle gap from the wall**
+5.  **FUNNEL OFF**
+6.  **walk into blue**
+7.  **orange under yourself little bit in front** (don't bonk your head against the portal)
+8.  _(turn around and walk onto platform)_
+9.  turn **FUNNEL ON** again
+10.  elevator **_"door"_**
 
 ## Potato GLaDOS
 
