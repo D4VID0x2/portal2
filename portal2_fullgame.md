@@ -180,8 +180,9 @@ _normal_
 3.  push agains left third of middle white panel
 4.  shoot orange
 5.  crouch, look at right border of portal and tap ***W*** (-1776.120 < pos.y  < -1776.440)
-6.  shoot blue 3x forward
-7.  quickly orange opposite exit door, grab cube and spam jump
+6.  shoot orange between portal border and panel border on the right
+7.  shoot blue 3x forward
+8.  quickly orange opposite exit door, grab cube and spam jump
 
 ## Catapult Intro _(Chamber 05)_
 
