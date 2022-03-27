@@ -114,9 +114,10 @@ _bind Shift to Crouch_
 1.  **far right corner** of platform with orange portal
 2.  stand on top of **block** that is **sticking out**
 3.  sensitivity 0.2   (default is 3.7)
-4.  pos: -**502**.00 \_ \_
-5.  ang: **+0.00** -**169.22-.26** \_
-6.  tap **_A_** and **spam portal**
+```
+pos: -501.80
+ang: 0.003 -169.250
+```
 
 ## "GLaDOS"
 
