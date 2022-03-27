@@ -175,9 +175,13 @@ _normal_
 
 ##### difficult approach
 
-1.  activate laser
-2.  jump and walk on the left wall _(hard)_
-3.  ...
+1.  orange far right
+2.  blue right next to the door
+3.  push agains left third of middle white panel
+4.  shoot orange
+5.  crouch, look at right border of portal and tap ***W*** (-1776.120 < pos.y  < -1776.440)
+6.  shoot blue 3x forward
+7.  quickly orange opposite exit door, grab cube and spam jump
 
 ## Catapult Intro _(Chamber 05)_
 
