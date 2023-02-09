@@ -111,6 +111,8 @@ _bind Shift to Crouch_
 
 ## "Wheatley room" - Secret Panel _(Chamber 07)_
 
+`map sp_a1_intro7`  
+
 1.  **far right corner** of platform with orange portal
 2.  stand on top of **block** that is **sticking out**
 3.  sensitivity 0.2   (default is 3.7)
@@ -226,7 +228,6 @@ Put **camera** on the button
 
 `map sp_a2_fizzler_intro`  
 
-### New strat
 1. be fast
 2. shoot under animated panes
 
@@ -460,6 +461,8 @@ _just B-Hop_
 
 ## Cave Johnson
 
+`map sp_a3_03`
+
 1.  jump onto catwalk
 2.  portal up
 3.  **"cliff shot"**
@@ -471,31 +474,30 @@ _just B-Hop_
 9.  on pipe hold **_D_** and scroll (spam jump)
 10. jump to surface on the **left** and blue
 
-## Blue Gel Intro
+## Repulsion Intro
+
+`map sp_a3_jump_intro`
 
 -   jump in elevator to trigger lights early
 
-1.  _normal_ (get cube)
-2.  seamshot
-3.  -19.906 174.821 0
-4.  get inside
-
-#### easier route
-
-4.  jump into **scaffolding** (hold crouch while going through portal and into scaffolding)
-5.  go as far up as possible
-6.  **hold left**
-
-#### harder route
-
-4.  align with the middle of duct
-5.  **circle jump**
-6.  place a **new portal** to go through (**crouch** while going through portal, crouch onto platform, **don't crouch on gel**)
+### New seam shot
+[repulsion intro seam shot tutorial](https://www.youtube.com/watch?v=IONv8oDwzQE)
+1. go up
+2. **stand in corner**
+3. **look in top left corner of white surface**
+4. ang: **-19.91** **174.86**
 
 
-7.  _normal_ ...
+#### part 2
 
-## More gel
+1.  align with the middle/left part of duct
+2.  **circle jump**
+3.  place a **new portal** to go through (**crouch** while going through portal, crouch onto platform, **don't crouch on gel**)
+4.  ...
+
+## Bomb Flings
+
+`map sp_a3_bomb_flings`
 
 1.  place orange while in elevator
 2.  blue up
@@ -506,6 +508,8 @@ _just B-Hop_
 7.  elevator **_"calcium"_**
 
 ## Crazy box
+
+`map sp_a3_crazy_box`
 
 #### Part 1
 
@@ -528,7 +532,7 @@ _just B-Hop_
 9.  turn **FUNNEL ON** again
 10.  elevator **_"door"_**
 
-## Potato GLaDOS
+## PotatOS
 
 `map sp_a3_transition01`  
 
@@ -565,7 +569,7 @@ _just B-Hop_
 7.  jump in and **hold _W_**
 8.  elevator on "we're **gonna** change the world"
 
-## Blue and Orange
+## Blue and Orange - Prop Flings
 
 `map sp_a3_speed_flings`
 
@@ -589,7 +593,7 @@ Lemon skip
 `developer 1`  
 `contimes 3`  
 
-1.  portal strait up, portal right
+1. portal strait up, portal right
 2. Orange top left corner and  jump through
 3. **Orange on line first stain from left** so that the portal is inside the wall (you can see lines orange lines on top and bottom)
 4. **Blue on straight line**
@@ -671,7 +675,7 @@ Lemon skip
 
 # Chapter 8
 
-## The Itch
+## The Itch - Test
 
 `map sp_a4_intro`  
 
@@ -700,6 +704,8 @@ Lemon skip
 
 ## Ceiling Button
 
+`map sp_a4_tb_trust_drop`
+
 -   **_can't jump -> spam A-D_**
 -   _don't go over 300 vel -> loose control_
 
@@ -713,6 +719,8 @@ Lemon skip
 
 ## Wall Button
 
+`map sp_a4_tb_wall_button`
+
 1.  **orange** on the **right** side of door
 2.  go right (can go over 300, button stop) - **hold crouch**
 3.  blue on the left
@@ -722,7 +730,9 @@ Lemon skip
 7.  stand in doorway and jump throw the cube (door pushes you back down)
 8.  elevator on "Oh no. **It's**"  
 
-## Chamber 04
+## Polarity (Chamber 04)
+
+`map sp_a4_tb_polarity`
 
 1.  go through door
 2.  jump to **ceiling**
@@ -730,7 +740,9 @@ Lemon skip
 4.  blue under, go up using funnel and loose Crouch-Fly
 5.  elevator fast
 
-## Chamber 05
+## Funnel Catch (Chamber 05)
+
+`map sp_a4_tb_catch`
 
 1.  orange on right side in entrance
 2.  blue on bot right corner of **top left panel**, stand in portal
@@ -740,7 +752,9 @@ Lemon skip
 6.  activate button, exit
 7.  elevator on **"un**bearable" **.**  
 
-## Chamber 06
+## Stop the Box (Chamber 06)
+
+`map sp_a4_stop_the_box`
 
 1.  bridge
 2.  jump **0.5 second** after cube falls onto faithplace and grab it
@@ -748,7 +762,9 @@ Lemon skip
 4.  jump down, place cube on button, portal up
 5.  elevator on **second "no"** _(... ways. "No **no**" that's ... - probably not fast enough)_
 
-## Chamber 11
+## Laser Catapult (Chamber 11)
+
+`map sp_a4_laser_catapult`
 
 #### Alternate route to preserve Fly
 
@@ -764,9 +780,11 @@ Lemon skip
 10. use back pipe to go down to exit _(or use near pipe - more difficult)_
 11. elevator on **"crucial"** **(don't crouch!!!)**
 
-## Chamber 12
+##  Laser Platform (Chamber 12)
 
-dont jump
+`map sp_a4_laser_platform`
+
+**don't jump**
 
 #### Part 1
 
@@ -785,7 +803,7 @@ dont jump
 4.  on the end, **hit the funnel to loose Fly, fall down, hug the wall and strafe left** to avoid death triggers, **aim to land on end of catwalk**
 5.  **go back** to trigger opening of panels  
 
-## Chamber 15
+## Prop Catch (Chamber 15)
 
 `map sp_a4_speed_tb_catch`  
 
@@ -801,7 +819,7 @@ dont jump
 10. **spam blue** to trigger dialogue with funnel (shoot right side)
 11. elevator on "love it to **death"**
 
-## Chamber 16
+## Repulsion Polarity (Chamber 16)
 
 `map sp_a4_jump_polarity`  
 
@@ -824,6 +842,8 @@ dont jump
 
 ## Finale1 - This is the part where he kills us
 
+`map sp_a4_finale1`
+
 1.  on the left wall above two larger panels is a hitbox
 2.  jump to that
 3.  fly straight
@@ -835,6 +855,8 @@ dont jump
 9.  trigger crusher and wait
 
 ## Finale2
+
+`map sp_a4_finale2`
 
 1.  step off railing and crouch, **hold crouch**
 2.  **don't go over 300**
@@ -853,6 +875,8 @@ dont jump
 
 ## Finale3
 
+`map sp_a4_finale3`
+
 1.  orange behind door
 2.  blue on near right, go through
 3.  blue on far right
@@ -869,6 +893,8 @@ dont jump
 14. **press Use** key to put GLaDOS in
 
 ## Finale4
+
+`map sp_a4_finale4`
 
 #### Part 1
 
