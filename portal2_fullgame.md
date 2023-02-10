@@ -524,12 +524,10 @@ _just B-Hop_
 1.  portal under cube and under me, **crouch after going through portal** (keep holding crouch)
 2.  put cube on button
 3.  **orange top left corner of right white wall next to the elevator**
-4.  **blue on ground under the elevator with a two circle gap from the wall**
-5.  **FUNNEL OFF**
-6.  **walk into blue**
-7.  **orange under yourself little bit in front** (don't bonk your head against the portal)
-8.  _(turn around and walk onto platform)_
-9.  turn **FUNNEL ON** again
+4.  blue on ground under the elevator **paralel to wall**
+6.  **walk into blue, crouch**
+7.  **orange under yourself**
+8.  **STRAFE** to turn under glass
 10.  elevator **_"door"_**
 
 ## PotatOS
